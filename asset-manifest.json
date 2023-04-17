@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alex-countries-reactjs/static/css/main.e6c13ad2.css",
+    "main.js": "/alex-countries-reactjs/static/js/main.474e0992.js",
+    "static/js/787.0ae9e8b1.chunk.js": "/alex-countries-reactjs/static/js/787.0ae9e8b1.chunk.js",
+    "index.html": "/alex-countries-reactjs/index.html",
+    "main.e6c13ad2.css.map": "/alex-countries-reactjs/static/css/main.e6c13ad2.css.map",
+    "main.474e0992.js.map": "/alex-countries-reactjs/static/js/main.474e0992.js.map",
+    "787.0ae9e8b1.chunk.js.map": "/alex-countries-reactjs/static/js/787.0ae9e8b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.474e0992.js"
+  ]
+}
